@@ -2,7 +2,7 @@
     "coverage": {
         "country": "ca",
         "state": "on",
-        "county": "Oxford County"
+        "county": "Oxford"
     },
     "data": "http://public.oxfordcounty.ca/gis/rest/services/Address_points/MapServer/0",
     "website": "http://www.oxfordcounty.ca/Services-for-You/Mapping/Maps",
